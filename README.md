@@ -1,6 +1,6 @@
 ## Hola, soy Agustín 👋
 
-Estudiante avanzado de la **Licenciatura en Ciencias de Datos** en la Universidad de Buenos Aires (FCEyN). Me falta la tesis.
+Estudiante avanzado de la **Licenciatura en Ciencias de Datos** en la Universidad de Buenos Aires (FCEyN). 
 
 Me interesa usar estadística y machine learning para **tomar mejores decisiones con datos**:
 
@@ -10,8 +10,8 @@ Me interesa usar estadística y machine learning para **tomar mejores decisiones
 - 💬 **NLP y LLMs:** en especial, cómo evaluarlos con rigor.
 
 ### 🛠️ Herramientas
-**Lenguajes:** Python · R · SQL · C++ · Java
-**Datos y ML:** pandas · NumPy · scikit-learn · matplotlib · seaborn
+**Lenguajes:** Python · R · C++ · Java
+**Datos y ML:** SQL · pandas · NumPy · scikit-learn · matplotlib · seaborn
 
 ### 📚 Formación
 La carrera combina una base matemática fuerte (probabilidad con teoría de la medida, análisis funcional, álgebra lineal numérica) con:
@@ -28,4 +28,4 @@ La carrera combina una base matemática fuerte (probabilidad con teoría de la m
 | [NLP: de BoW a LLMs](https://github.com/Agustin-Wencelblat/nlp_TPs) | Recorrido por técnicas de procesamiento del lenguaje, desde Bag of Words hasta LLMs. *(En progreso)* |
 
 ### 📫 Contacto
-[LinkedIn](https://www.linkedin.com/in/TU-USUARIO) · ✉️ tu-mail@ejemplo.com
+[LinkedIn](https://www.linkedin.com/in/agustin-wencelblat) · ✉️ aguswencel@gmail.com
