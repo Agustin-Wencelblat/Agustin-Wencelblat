@@ -22,7 +22,7 @@ La carrera combina una base matemática fuerte (probabilidad con teoría de la m
 - NLP, aprendizaje por refuerzo y teoría de transporte óptimo;
 - algoritmos y estructuras de datos, grafos y complejidad.
 
-###  Proyectos
+###  Proyectos Destacados
 | Proyecto | Descripción |
 |---|---|
 | [Laboratorio de Datos](https://github.com/Agustin-Wencelblat/LDD_TPs) | Limpieza y modelado de datos públicos con SQL. Clasificación de dígitos con KNN y árboles de decisión, con validación cruzada (93.5% de exactitud en datos no vistos). |
