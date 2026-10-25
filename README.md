@@ -27,6 +27,7 @@ La carrera combina una base matemática fuerte (probabilidad con teoría de la m
 |---|---|
 | [Laboratorio de Datos](https://github.com/Agustin-Wencelblat/LDD_TPs) | Limpieza y modelado de datos públicos con SQL. Clasificación de dígitos con KNN y árboles de decisión, con validación cruzada (93.5% de exactitud en datos no vistos). |
 | [NLP: de BoW a LLMs](https://github.com/Agustin-Wencelblat/nlp_TPs) | Recorrido por técnicas de procesamiento del lenguaje, desde Bag of Words hasta LLMs. |
+| [Analisis de Incentivos](https://github.com/Agustin-Wencelblat/incentivos-uplift) | Identificar en que casos un incentivo cambiaria el comportamiento de un consumidor *(En Proceso)* |
 
 ###  Contacto
 [LinkedIn](https://www.linkedin.com/in/agustin-wencelblat) · ✉️ aguswencel@gmail.com
